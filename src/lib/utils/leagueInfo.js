@@ -7,12 +7,13 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the Lunchbox Dynasty!</p>
-  <p>In 2023, we took our decade-long fantasy football party, the Lunch Box League, and turned up the heat with a new year-round venture: the Lunchbox Dynasty. Spearheaded by Dalton, aka "The Peoples Mish," this league is all about keeping the fantasy vibe alive all year long. We've got the old crew and a few new faces making moves and shaking up our fantasy standings.</p>
-  <p>Our league rocks a 12-team PPR superflex setup that keeps things lively. From seasoned pros to rookies finding their groove, each manager in the Lunchbox Dynasty believes they’ve got the winning strategy. We’re all about big plays and even bigger laughs, with a side of “friendly” accusations about those infamous back alley trades.</p>
-  <p>Sure, we talk a big game about our championship trophy—someone just needs to step up and snag it! Once we have it, whoever buys it gets bragging rights to name it. Until then, the real prize is landing those bragging rights by outsmarting and outplaying your buddies. As we charge into our second season and beyond, we’re all about building traditions, ramping up our league culture, and most importantly, staying tight with pals from all over the map.</p>
-  <p>So, whether you’re gunning for glory or just trying not to be the butt of next week’s jokes, the Lunchbox Dynasty is set for another epic season. Ready to join the fun? Here’s to endless seasons of fantasy, friendship, and football antics!</p>
+  <p>In 2023, we expanded from our original Lunch Box League into something bigger: the Lunchbox Dynasty. Organized by Dalton, "The Peoples Mish," this year-round dynasty league keeps the competitive spirit alive with both familiar faces and new contenders.</p>
+  <p>The league features a dynamic 12-team PPR superflex format that ensures a lively and strategic competition. With a mix of seasoned veterans and enthusiastic newcomers, every manager is poised to make their mark. Our seasons are filled with intense matchups, strategic trades, and plenty of good-natured banter.</p>
+  <p>We're still in the process of introducing a league trophy, which will offer more than just victory — it will be a symbol of fantasy football glory. Whoever steps up to procure the trophy will also earn the right to name it. Meanwhile, the true reward remains the thrill of competition and the joy of besting your friends.</p>
+  <p>As we look forward to our second season and beyond, we aim to deepen our traditions, strengthen our league culture, and maintain connections with friends across the country.</p>
+  <p>Whether you're aiming for the top or just trying to avoid last place, the Lunchbox Dynasty promises another exciting season. Are you ready for the challenge? Join us for ongoing seasons of strategy, camaraderie, and football fun.</p>
 `;
+
 
 
 /*   STEP 3   */
