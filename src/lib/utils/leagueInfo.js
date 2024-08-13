@@ -7,13 +7,13 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome to the Lunchbox Dynasty!</p>
+  <p>In 2023, we took our decade-long fantasy football party, the Lunch Box League, and turned up the heat with a new year-round venture: the Lunchbox Dynasty. Spearheaded by Dalton, aka "The Peoples Mish," this league is all about keeping the fantasy vibe alive all year long. We've got the old crew and a few new faces making moves and shaking up our fantasy standings.</p>
+  <p>Our league rocks a 12-team PPR superflex setup that keeps things lively. From seasoned pros to rookies finding their groove, each manager in the Lunchbox Dynasty believes they’ve got the winning strategy. We’re all about big plays and even bigger laughs, with a side of “friendly” accusations about those infamous back alley trades.</p>
+  <p>Sure, we talk a big game about our championship trophy—someone just needs to step up and snag it! Once we have it, whoever buys it gets bragging rights to name it. Until then, the real prize is landing those bragging rights by outsmarting and outplaying your buddies. As we charge into our second season and beyond, we’re all about building traditions, ramping up our league culture, and most importantly, staying tight with pals from all over the map.</p>
+  <p>So, whether you’re gunning for glory or just trying not to be the butt of next week’s jokes, the Lunchbox Dynasty is set for another epic season. Ready to join the fun? Here’s to endless seasons of fantasy, friendship, and football antics!</p>
 `;
+
 
 /*   STEP 3   */
 /*
